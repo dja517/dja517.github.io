@@ -1,16 +1,13 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: Syringe Grip +
+description: 
+    Designed open source alternative to SyringeGrip. Utilized relief features -  crushribs and gripfins – to account for different syrnge standards(BD, 
+    Terumo, Glatopa). Tested and approved by medical clinic in Republic of Korea. 
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - 3D Computer Aided Design
+  - Structural Analysis
+  - Design for Manufacturability
 
 main-image: /project2.jpg
 ---
