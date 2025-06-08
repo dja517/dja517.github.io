@@ -2,8 +2,7 @@
 layout: post
 title: SyringeGrip+
 description: 
-    Designed open source alternative to SyringeGrip. Utilized relief features including crushribs and gripfins to account for different syrnge standards(BD, 
-    Terumo, Glatopa). Tested and approved by medical clinic in Republic of Korea. 
+    Redesigned commercial SyringeGrip to accommodate variations in hand size and syringe diameter tolerances. Integrated adaptive relief features such as crush ribs and grip fins to ensure compatibility across multiple syringe brands (BD, Terumo, Glatopa). Design was tested and approved by a medical clinic
 skills: 
   - 3D Computer Aided Design
   - Structural Analysis
@@ -19,40 +18,43 @@ main-image: /project2.jpg
 
 The SyringeGrip was developed to address usability challenges in controlled dispensing scenarios, especially where precision and repeatability are critical. The core goal was to create a stable yet adaptive interface for standard BD syringes.
 
-### Key Design Choices
+## Problem
 
-- **Designed for BD compatibility**  
-  Early in the process, I reviewed **BD's syringe specification sheets** to ensure dimensional compatibility and tolerances. This influenced not only the grip's form factor but also dictated clearance margins.
+- **Inconsistent Fit Across Users**  
+  Users with different finger sizes struggled with the one-size-fits-all grip, leading to discomfort and reduced control.
 
-- **Incorporating crush ribs for alignment**  
-  I integrated **crush ribs** at critical contact points. These provided:  
-  - A self-centering fit  
-  - Tolerance for **small variances in barrel diameter**  
-  - Reduction in part complexity by avoiding secondary fastening
+- **Manufacturing Variance in Syringes**  
+  BD syringes manufactured in different regions showed slight variations in outer diameter. The original design compensated with a looser fit, sacrificing stability.
 
-- **Material selection**  
-  Used a flexible PLA prototype initially, then shifted to a more rigid PETG for **better force transfer** without permanent deformation.
-
-- **Testing for ergonomic use**  
-  Simulated repeated use by different users to refine grip contours and improve **comfort over long sessions**.
 
 ---
 
-### Functionality & Use
+## Before & After
 
-Once assembled, the grip allowed for consistent **one-handed operation** and reduced variability in applied pressure. The final form factor was tested with both 5mL and 10mL BD syringes to confirm the universal fit strategy worked.
-
----
-
-### Lessons & Reflections
-
-> “Designing with tolerances in mind was key — even a perfect 3D model fails if real-world variation isn’t considered.”
-
-Working with real-world standards and design constraints forced a more disciplined, **engineering-focused approach**, blending usability with reliability.
+<table>
+  <tr>
+    <td align="center"><img src="/original.png" width="250"/><br/><strong>Original Syringe Grip</strong><br/>Loose fit due to oversized hole; lacked finger support for varied hand sizes.</td>
+    <td align="center"><img src="/improved.png" width="250"/><br/><strong>Improved SyringeGrip+</strong><br/>Adaptive crush ribs and ergonomic contouring provide a secure, comfortable grip across syringe types and users.</td>
+  </tr>
+</table>
 
 ---
 
-### External Reference
+## Key Improvements
 
-[BD Syringe Standards](https://bd.com)  
-*(Used to cross-reference outer diameter specs and plunger tolerances)*
+- **Clinically Informed Design**  
+  Collaborated with a medical professional to gather user feedback and tune ergonomic refinements.
+
+- **Spec-Driven Fit Optimization**  
+  Studied manufacturer specifications (BD, Terumo, Glatopa) to design around real-world tolerances.
+
+- **Adaptive Geometry**  
+  Introduced crush ribs and improved contouring to maintain a  self-aligning fit without compromising universal compatibility.
+
+---
+
+### External References
+
+- [Original SyringeGrip](https://syringegrip.com/)  
+
+- [BD Syringe Standards](https://chemyx.com/resources/pump-resources/min-and-max-flow-rates/bd-plastic-syringe-minimum-maximum-flow-rates/)  
