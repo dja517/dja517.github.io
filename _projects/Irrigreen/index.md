@@ -67,13 +67,18 @@ To address leakage:
 
 ## Development Gallery
 
-<table>
-  <tr>
-    <td align="center"><img src="/Development.jpg" width="250"/><br/><strong>Prototype Archive</strong><br/>Ten iterations exploring different internal geometries and features to secure a seal. Prototypes were printed in PLA(Blue), Tested product in PETG(Green) .</td>
-    <td align="center"><img src="/Change1.jpg" width="250"/><br/><strong>Internal Compartmentalization</strong><br/>This redesign added pressure-isolated chambers and sealing flanges. It was a key step in eliminating leak paths around the thread root.</td>
-    <td align="center"><img src="/Test1.jpg" width="250"/><br/><strong>Failure Analysis</strong><br/>Layer-line failure under pressure due to orientation.</td>
-  </tr>
-</table>
+### Prototype Archive
+{% include image-gallery.html images="/cap_dev.jpg" height="300" %}
+Ten iterations explored seal geometry, thread engagement, material choice, and print orientation. Each change was tested for pressure integrity and outdoor durability.
+
+### Internal Compartmentalization
+{% include image-gallery.html images="/cap_change1.jpg" height="300" %}
+This redesign added pressure-isolated chambers and sealing flanges. It was a key step in eliminating leak paths around the thread root.
+
+### Failure Analysis
+{% include image-gallery.html images="/cap_test1.jpg" height="300" %}
+This test revealed vertical failure along layer lines under pressure. It led to angled printing strategies, interlocking geometry, and reinforced sealing zones.
+
 
 ---
 
