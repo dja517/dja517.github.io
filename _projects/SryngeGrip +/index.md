@@ -28,6 +28,10 @@ The SyringeGrip was developed to address usability challenges in controlled disp
 
 
 ---
+### Embeed images
+{% include image-gallery.html images="project2.jpg" height="400" %} 
+place the images in project folder/images then update the file path.   
+s
 **Original**
 
 {% include image-gallery.html images="project2.jpg" height="300" %}
