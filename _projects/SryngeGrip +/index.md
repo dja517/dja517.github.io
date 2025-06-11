@@ -28,10 +28,13 @@ The SyringeGrip was developed to address usability challenges in controlled disp
 
 
 ---
+**Original**
 
-## Before & After
+{% include image-gallery.html images="project3.png" height="400" %}
 
-{% include image-gallery.html images="/project3.png, /project4.png" height="300" %}
+**SyringeGrip+**
+
+{% include image-gallery.html images="project4.png" height="400" %}
 
 **Left: Original Syringe Grip**  
 Loose fit due to oversized hole; lacked finger support for varied hand sizes.
@@ -51,6 +54,9 @@ Adaptive crush ribs and ergonomic contouring provide a secure, comfortable grip 
 
 - **Adaptive Geometry**  
   Introduced crush ribs and improved contouring to maintain a  self-aligning fit without compromising universal compatibility.
+
+  {% include image-gallery.html images="project4.png" height="300" %}
+  [Crush Ribs highlighted in orange]
 
 ---
 
