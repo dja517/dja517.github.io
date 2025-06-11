@@ -4,13 +4,12 @@ title: Car Sales & Profit Dashboard
 description: 
   Built demo interactive visualizations and dashboards to analyze car sales and profit trends across dealerships. Focused on transforming raw sales data into actionable business insights using Excel and BI tools.
 skills: 
-  - Data Visualization
   - Dashboard Design
   - Sales & Profit Analysis
   - Excel Charts
   - IBM Cognos / Looker Studio
 
-main-image: /cognos.png
+main-image: /Cognos.png
 ---
 
 # SwiftAuto Traders – Sales & Profit Analysis

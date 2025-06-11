@@ -2,12 +2,7 @@
 layout: post
 title: High-Pressure Sprinkler Cap Redesign
 description: 
-    Designed and refined a replacement cap for an Irrigreen sprinkler head. Addressed fluid leakage by integrating leak-resistant geometries and switching to PETG material for UV and pressure resistance. Project emphasized design-for-fluid-dynamics and outdoor durability.
 skills: 
-  - 3D Computer Aided Design
-  - Fluid Dynamics Analysis
-  - Design for Outdoor Use
-
 main-image: /cad.png
 ---
 
