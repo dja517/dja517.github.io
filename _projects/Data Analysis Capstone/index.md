@@ -18,7 +18,7 @@ main-image: /StackOverflowTrends.jpg
 Analyzed developer survey data to highlight current and future trends in programming languages, database tools, and developer demographics.
 
 ---
-{% include image-gallery.html images="images/2.jpg" height="300" %}
+{% include image-gallery.html images="images/2.png" height="300" %}
 
 ## Tools & Visualizations  
 
@@ -28,7 +28,7 @@ Analyzed developer survey data to highlight current and future trends in program
   - Future Trends  
   - Developer Demographics  
 
-{% include image-gallery.html images="images/1.jpg" height="300" %}
+{% include image-gallery.html images="images/1.png" height="300" %}
 
 ---
 
