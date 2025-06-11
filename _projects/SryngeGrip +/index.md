@@ -29,10 +29,13 @@ The SyringeGrip was developed to address usability challenges in controlled disp
 
 ---
 **Original**
-{% include image-gallery.html images="project3.jpg" height="400" %}
+
+{% include image-gallery.html images="project3.jpg" height="300" %}
 
 **SyringeGrip+**
-{% include image-gallery.html images="project4.jpg" height="400" %}
+
+{% include image-gallery.html images="/project4.jpg" height="400" %}
+
 ---
 
 ## Key Improvements
