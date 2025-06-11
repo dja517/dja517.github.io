@@ -33,13 +33,6 @@ The SyringeGrip was developed to address usability challenges in controlled disp
 
 **SyringeGrip+**
 {% include image-gallery.html images="project4.jpg" height="400" %}
-
-**Left: Original Syringe Grip**  
-Loose fit due to oversized hole; lacked finger support for varied hand sizes.
-
-**Right: Improved SyringeGrip+**  
-Adaptive crush ribs and ergonomic contouring provide a secure, comfortable grip across syringe types and users.
-
 ---
 
 ## Key Improvements
