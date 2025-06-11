@@ -33,7 +33,7 @@ place the images in project folder/images then update the file path.
 
 **Original**
 
-{% include image-gallery.html images="project1.jpg" height="400"%}
+{% include image-gallery.html images="images/project1.jpg" height="400"%}
 
 **SyringeGrip+**
 
