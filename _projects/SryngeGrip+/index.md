@@ -26,18 +26,13 @@ The SyringeGrip was developed to address usability challenges in controlled disp
 - **Manufacturing Variance in Syringes**  
   BD syringes manufactured in different regions showed slight variations in outer diameter. The original design compensated with a looser fit, sacrificing stability.
 
-
-### Embeed images
-{% include image-gallery.html images="project2.jpg" height="400" %} 
-place the images in project folder/images then update the file path.  
-
-**Original**
+**Origina SyringeGripl**
 
 {% include image-gallery.html images="images/project1.jpg" height="400"%}
 
 **SyringeGrip+**
 
-{% include image-gallery.html images="project4.jpg" height="400"%}
+{% include image-gallery.html images="images/project4.jpg" height="400"%}
 
 ---
 
@@ -52,7 +47,7 @@ place the images in project folder/images then update the file path.
 - **Adaptive Geometry**  
   Introduced crush ribs and improved contouring to maintain a  self-aligning fit without compromising universal compatibility.
 
-  {% include image-gallery.html images="project1.jpg" height="300" %}
+  {% include image-gallery.html images="images/project1.jpg" height="300" %}
   [Crush Ribs highlighted in orange]
 
 ---

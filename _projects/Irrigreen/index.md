@@ -63,15 +63,15 @@ To address leakage:
 ## Development Gallery
 
 ### Prototype Archive
-{% include image-gallery.html images="/Development.jpg" height="300" %}
+{% include image-gallery.html images="images/Development.jpg" height="300" %}
 Ten iterations explored seal geometry, thread engagement, material choice, and print orientation. Each change was tested for pressure integrity and outdoor durability.
 
 ### Internal Compartmentalization
-{% include image-gallery.html images="/Change1.jpg" height="300" %}
+{% include image-gallery.html images="images/Change1.jpg" height="300" %}
 This redesign added pressure-isolated chambers and sealing flanges. It was a key step in eliminating leak paths around the thread root.
 
 ### Failure Analysis
-{% include image-gallery.html images="/Test1.jpg" height="300" %}
+{% include image-gallery.html images="images/Test1.jpg" height="300" %}
 This test revealed vertical failure along layer lines under pressure. It led to angled printing strategies, interlocking geometry, and reinforced sealing zones.
 
 

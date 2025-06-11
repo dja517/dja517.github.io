@@ -35,7 +35,7 @@ I explored dealership trends and profitability by creating the following visuali
 
 Created an interactive dashboard using **Cognos Analytics** *(or Looker Studio)* with two focused report pages: **Sales** and **Service**.
 
-{% include image-gallery.html images="/Dashboard.jpg" height="300" %}
+{% include image-gallery.html images="images/Dashboard.jpg" height="300" %}
 
 ## Key Outcomes
 
