@@ -28,7 +28,7 @@ Analyzed developer survey data to highlight current and future trends in program
   - Future Trends  
   - Developer Demographics  
 
-{% include image-gallery.html images="images/1.png" height="300" %}
+{% include image-gallery.html images="_projects/Data Analysis Capstone/images/1.png" height="300" %}
 
 ---
 
