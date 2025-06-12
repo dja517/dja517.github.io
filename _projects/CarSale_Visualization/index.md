@@ -37,7 +37,6 @@ Created an interactive dashboard using **Cognos Analytics** *(or Looker Studio)*
 
 {% include image-gallery.html images="images/Dashboard.jpg" height="400" %}
 
-
 ## Key Outcomes
 
 - **Turned Raw Sales Data into Insightful Visuals**  

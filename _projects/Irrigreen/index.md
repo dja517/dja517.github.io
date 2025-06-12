@@ -2,7 +2,11 @@
 layout: post
 title: High-Pressure Sprinkler Cap Redesign
 description: Redesigned a high-pressure sprinkler cap to eliminate leaks using fluid-aware CAD and 3D print optimization. Final version withstood outdoor use and full water pressure without sealant.
-skills: 
+skills:
+ - CAD
+ - Thread Design & Tolerancing
+ - Mechanical Stress Modeling
+ - Fluid Dynamics
 main-image: /cad.png
 ---
 
