@@ -4,7 +4,7 @@ title: SyringeGrip+
 description: 
     Redesigned commercial SyringeGrip to accommodate variations in hand size and syringe diameter tolerances. Integrated adaptive relief features such as crush ribs and grip fins to ensure compatibility across multiple syringe brands (BD, Terumo, Glatopa). Design was tested and approved by a medical clinic
 skills: 
-  - 3D Computer Aided Design
+  - 3D CAD
   - Structural Analysis
   - Design for Manufacturability
 
