@@ -2,7 +2,7 @@
 layout: post
 title: SyringeGrip+
 description: 
-    Redesigned SyringeGrip to accommodate variations in hand size and syringe diameter tolerances. Design was tested and approved by medical clinic
+    Redesigned commercial SyringeGrip to accommodate variations in hand size and syringe diameter tolerances. Integrated adaptive relief features such as crush ribs and grip fins to ensure compatibility across multiple syringe brands (BD, Terumo, Glatopa). Design was tested and approved by a medical clinic
 skills: 
   - 3D CAD
   - Structural Analysis
@@ -12,9 +12,9 @@ main-image: /project2.jpg
 ---
 
 ---
-# Project Details 
+# SyringeGrip Project
 
-## What is a SyringeGrip?
+## Design Process
 
 The SyringeGrip was developed to address usability challenges in controlled dispensing scenarios, especially where precision and repeatability are critical. The core goal was to create a stable yet adaptive interface for standard BD syringes.
 
