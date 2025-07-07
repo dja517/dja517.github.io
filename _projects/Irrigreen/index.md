@@ -7,7 +7,7 @@ skills:
  - Thread Design & Tolerancing
  - Mechanical Stress Modeling
  - Fluid Dynamics
-main-image: /cad.png
+main-image: /main.jpg
 ---
 
 # PressureFit: Leakproof Sprinkler Cap
@@ -93,3 +93,4 @@ This test revealed vertical failure along layer lines under pressure. It led to 
   Final cap withstood sun, hose pressure, and repeated use without deformation or leakage.
 
 ---
+{% include image-gallery.html images="images/running.jpg" height="300" %}

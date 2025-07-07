@@ -8,7 +8,7 @@ skills:
   - Structural Analysis
   - Design for Manufacturability
 
-main-image: /project2.jpg
+main-image: /project4.png
 ---
 
 ---
@@ -28,11 +28,11 @@ The SyringeGrip was developed to address usability challenges in controlled disp
 
 **Origina SyringeGripl**
 
-{% include image-gallery.html images="images/project1.jpg" height="400"%}
+{% include image-gallery.html images="images/project1.png" height="400"%}
 
 **SyringeGrip+**
 
-{% include image-gallery.html images="images/project4.jpg" height="400"%}
+{% include image-gallery.html images="images/project4.png" height="400"%}
 
 ---
 
@@ -47,7 +47,7 @@ The SyringeGrip was developed to address usability challenges in controlled disp
 - **Adaptive Geometry**  
   Introduced crush ribs and improved contouring to maintain a  self-aligning fit without compromising universal compatibility.
 
-  {% include image-gallery.html images="images/project1.jpg" height="300" %}
+  {% include image-gallery.html images="images/project1.png" height="300" %}
   [Crush Ribs highlighted in orange]
 
 ---
